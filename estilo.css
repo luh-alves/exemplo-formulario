@@ -1,0 +1,19 @@
+h2{
+    color: blueviolet;
+    background-color: bisque;
+}
+#nome{
+    width: 15vw;
+    height: 2vw;
+}
+#sobrenome{
+    width: 15vw;
+    height: 2vw;
+}
+#email{
+    width: 15vw;
+    height: 2vw;
+}
+#btt:hover{
+    background-color: rgb(183, 132, 230);
+}
